@@ -1,6 +1,7 @@
 const express = require("express");
 const routerApi = require("./routes/index");
 
+//Configuración del servidor
 const app = express();
 const port = 3000;
 
